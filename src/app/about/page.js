@@ -33,7 +33,7 @@ const About1 = () => {
                     </p>
                 </div>
                 <div className="w-full lg:w-8/12 ">
-                    <img className="w-full h-full" src="/images/about.png" />
+                    <img className="w-full h-full rounded" src="/img/about.png" />
                 </div>
             </div>
         </div>

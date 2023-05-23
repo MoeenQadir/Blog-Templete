@@ -16,7 +16,6 @@ const MyComponent = () => {
                                     </h2>
                                     <p className="text-body-color mb-9 text-base text-justify p-5  align-middle leading-relaxed">
                                         Have a question, suggestion, or just want to say hello? We'd love to hear from you!
-
                                         You can reach us by email at myselfxdeveloper@gmail.com . We'll do our best to get back to you as soon as possible.
                                     </p>
                                     <div className="mb-8 flex w-full max-w-[370px]">
